@@ -1,1 +1,1 @@
-Die Datei in Tampermonkey einfügen Website aufrufen unde Passwörter generieren und speichern
+Die Datei in Tampermonkey einfügen Website aufrufen und Passwörter generieren und speichern
